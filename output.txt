@@ -1,0 +1,3 @@
+1 . Independent Set ( 1 ): 1 
+Independent Set Size:  1
+Found Independent Set of size at least  1 .
